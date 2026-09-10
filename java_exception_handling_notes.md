@@ -1,5 +1,4 @@
-# Java Exception Handling — Concise Student Notes
-
+# Java Exception Handling
 ## 1. What is an Exception?
 
 An **exception** is a problem that occurs while a Java program is running.
