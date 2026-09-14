@@ -1,0 +1,5 @@
+com\mycompany\themepark\ThemePark.class
+rides\BumperCars.class
+rides\RollerCoaster.class
+rides\Ride.class
+safety\SafetyCheck.class
