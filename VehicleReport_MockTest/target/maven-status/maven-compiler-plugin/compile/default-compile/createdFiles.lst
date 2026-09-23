@@ -1,0 +1,4 @@
+com\mycompany\vehiclereport_mocktest\VehicleReport_MockTest.class
+com\mycompany\vehiclereport_mocktest\VehicleService.class
+com\mycompany\vehiclereport_mocktest\IVehicleService.class
+com\mycompany\vehiclereport_mocktest\VehicleServiceReport.class
