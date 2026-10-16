@@ -1,0 +1,5 @@
+sweets | R5.0
+Chips | R10.0
+Juice | R12.0
+Sweets | R5.0
+chocolate | R15.0
